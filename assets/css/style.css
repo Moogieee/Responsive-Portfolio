@@ -233,8 +233,7 @@ h3, .sidebar h2 {
 }
 
 
-/*I can't figure out why the About Me page isn't
-  responding to the changes*/
+
 @media screen and (max-width: 768px) {
 
   .header-center {
@@ -270,8 +269,9 @@ h3, .sidebar h2 {
 }
 
 
-/*still can't figure out why my changes won't apply
-  the About Me page*/
+/*how do I get rid of the gigantic space between the
+  nav links and the section under it? i tried messing
+  with the margins but that didn't work...*/
 @media screen and (max-width: 640px) {
    #masthead {
     position: static;
